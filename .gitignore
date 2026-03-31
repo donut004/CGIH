@@ -1,0 +1,13 @@
+# Carpetas de compilación
+x64/
+x86/
+Debug/
+Release/
+configInicial/Debug/
+
+# Archivos ocultos y de configuración local de Visual Studio
+.vs/
+*.user
+*.suo
+*.db
+*.opendb
